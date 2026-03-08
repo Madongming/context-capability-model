@@ -120,12 +120,10 @@ Contexts.
 
 Full specification:
 
--   **AI Execution Context Authorization Model v1.0**\
-    `./ai-execution-context-authorization-model-v1.0.md`
+-   [**AI Execution Context Authorization Model v1.0**](./ai-execution-context-authorization-model-v1.0.md)
 
--   **AI Execution Context Authorization Model v1.0 (Plain Language
-    Version)**\
-    `./ai-execution-context-authorization-model-v1.0-Plain-Language-Version.md`
+-   [**AI Execution Context Authorization Model v1.0 (Plain Language
+    Version)**\](./ai-execution-context-authorization-model-v1.0-Plain-Language-Version.md)
 
 This specification defines:
 
