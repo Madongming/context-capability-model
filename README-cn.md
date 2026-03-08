@@ -115,7 +115,7 @@ AI 的所有推理步骤都必须在 **Execution Context（执行上下文）** 
 -   [**AI Execution Context Authorization Model v1.0**](./ai-execution-context-authorization-model-v1.0.md)
 
 -   [**AI Execution Context Authorization Model v1.0（Plain Language
-    Version）**\](./ai-execution-context-authorization-model-v1.0-Plain-Language-Version.md)
+    Version）**](./ai-execution-context-authorization-model-v1.0-Plain-Language-Version.md)
 
 该规范定义了：
 
